@@ -5,3 +5,4 @@ Git has a mutable index called stage.
 Git test of test.
 My stupid boss still prefers SVN.
 Creating a new branch is quick.
+Creating a new branch is quick & simple.
